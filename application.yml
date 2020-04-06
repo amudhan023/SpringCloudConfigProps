@@ -1,4 +1,4 @@
 db:
-  conn: Sample conn string
+  conn: Sample conn string from git
   host: 127.0.0.1
   port: 8244
