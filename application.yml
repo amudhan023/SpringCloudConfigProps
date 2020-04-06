@@ -1,0 +1,4 @@
+db:
+  conn: Sample conn string
+  host: 127.0.0.1
+  port: 8244
